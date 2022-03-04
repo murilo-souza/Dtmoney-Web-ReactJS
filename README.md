@@ -5,7 +5,10 @@
 
 <h2>Tecnologias</h2>
 <ul>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="">React</a></li>
+  <li><a href="">Typescript</a></li>
+  <li><a href="">Styled components</a></li>
+  <li><a href="">React Modal</a></li>
+  <li><a href="">Axios</a></li>
+  <li><a href="">Mirage Js</a></li>
 </ul>
