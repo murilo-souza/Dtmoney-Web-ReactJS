@@ -5,10 +5,10 @@
 
 <h2>Tecnologias</h2>
 <ul>
-  <li><a href="">React</a></li>
-  <li><a href="">Typescript</a></li>
-  <li><a href="">Styled components</a></li>
-  <li><a href="">React Modal</a></li>
-  <li><a href="">Axios</a></li>
-  <li><a href="">Mirage Js</a></li>
+  <li><a href="https://pt-br.reactjs.org/">React</a></li>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+  <li><a href="https://styled-components.com/">Styled components</a></li>
+  <li><a href="https://www.npmjs.com/package/react-modal">React Modal</a></li>
+  <li><a href="https://axios-http.com/ptbr/docs/intro">Axios</a></li>
+  <li><a href="https://miragejs.com/">Mirage Js</a></li>
 </ul>
