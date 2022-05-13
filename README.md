@@ -3,7 +3,7 @@
   <img width="1440" alt="Início" src="https://user-images.githubusercontent.com/53982668/133682389-974145ba-e49a-49cd-9857-048a6bfacdc9.png">
 </div>
 
-<h2>Tecnologias</h2>
+<h2>Technologies</h2>
 <ul>
   <li><a href="https://pt-br.reactjs.org/">React</a></li>
   <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
@@ -14,4 +14,4 @@
 </ul>
 
 <h2>Layout</h2>
-<p>Para visualizar o layout inteiro da aplicação clique no <a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1">Link</a></p>
+<p>To see entire layout <a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1">Click Here</a></p>
