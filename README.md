@@ -8,12 +8,12 @@
 <h2>Tecnologias</h2>
 <ul>
   <li><a href="https://pt-br.reactjs.org/">React</a></li>
-  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-  <li><a href="https://styled-components.com/">Styled components</a></li>
-  <li><a href="https://www.npmjs.com/package/react-modal">React Modal</a></li>
   <li><a href="https://axios-http.com/ptbr/docs/intro">Axios</a></li>
   <li><a href="https://miragejs.com/">Mirage Js</a></li>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+  <li><a href="https://www.npmjs.com/package/react-modal">React Modal</a></li>
+  <li><a href="https://styled-components.com/">Styled components</a></li> 
 </ul>
 
 <h2>Layout</h2>
-<p>Para visualizar o layout inteiro da aplicação clique no <a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1">Link</a></p>
+<p>To see the complet layout of the application, access the <a href="https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1">Link</a></p>
